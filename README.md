@@ -1,0 +1,2 @@
+# WebScraping-for-Sentiment-Analysis-Project-in-R-
+This project aims to show how one can easily scrape the web to conduct a sentiment analysis. This project also shows some convenient techniques to make coding more concise and easier to read using the pipe function from the 'magrittr' library in R. Lastly, this project shows how a function can be used to easily get a quick sentiment analysis summary from any website. 
